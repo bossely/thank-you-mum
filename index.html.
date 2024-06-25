@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You Mum</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Thank You, Mum!</h1>
+        <p>Your gift means the world to me. The laptop is not just a device; it's a gateway to endless opportunities and learning. I'm deeply appreciative of your generosity and support. 🎁💻</p>
+        <p>I am so excited to use it for my studies and personal projects. Thank you for always being there for me and for believing in my potential. 🌟</p>
+        <p>Here's a small token of my gratitude, a personal website just for you!</p>
+        <p class="apology">I'm truly sorry for not thanking you yesterday. 🙏 I hope you can forgive me. Your kindness and love never go unnoticed, and I am so grateful to have you as my mum.i will continue to use the laptop for the purpose u bought it for me ❤️</p>
+        <p>With all my love,<br>[Your Name]</p>
+    </div>
+</body>
+</html>
